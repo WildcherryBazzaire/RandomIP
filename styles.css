@@ -1,0 +1,25 @@
+body {
+  background-color: black;
+}
+
+#iptext {
+  margin: 12% auto 0 auto;
+  width: 45%;
+  height: 20%;
+  font-size: 571%;
+  letter-spacing: 5px;
+  text-align: center;
+  color: white;
+  border: 10px solid white;
+}
+
+#generate {
+  display: table;
+  margin:5% auto 0 auto;
+  width: 13%;
+  height: 15%;
+  border: 6px solid white;
+  background-color: black;
+  font-size: 173%;
+  color: white;
+}
